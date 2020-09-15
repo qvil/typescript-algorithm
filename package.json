@@ -5,9 +5,9 @@
   "repository": "https://github.com/qvil/typescript-algorithm.git",
   "author": "Taesu Hyeon <email@qvil.dev>",
   "scripts": {
-    "start": "tsc src/index.ts",
+    "start": "tsc src/sort/quickSort.ts",
     "build": "tsc",
-    "dev": "nodemon src/index.ts"
+    "dev": "nodemon src/sort/mergeSort.ts"
   },
   "license": "MIT",
   "devDependencies": {
